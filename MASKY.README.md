@@ -2,10 +2,10 @@
 This program asks the user for their age and gives simple advice on whether they should consider starting a business based on their age range.
 
 # Features
-Asks the user to enter their age
-Provides age‑specific advice
-Covers four different age categories
-Gives motivational or cautionary messages depending on the input
+- Asks the user to enter their age
+- Provides age‑specific advice
+- Covers four different age categories
+- Gives motivational or cautionary messages depending on the input
 
 # How to use
 Run the program and enter your age when prompted.
